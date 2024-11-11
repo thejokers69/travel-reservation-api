@@ -1,4 +1,4 @@
-// controllers/reservationController.js
+// TRAVEL-RESERVATION-API/controllers/reservationController.js
 import * as reservationService from "../services/reservationService.js";
 
 export const getAllReservations = async (req, res) => {
